@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  home_team: MyString
+  away_team: MyString
+  league: MyString
+  date: 2013-02-25
+  time: 2013-02-25 10:39:25
+  attended: 
+
+two:
+  home_team: MyString
+  away_team: MyString
+  league: MyString
+  date: 2013-02-25
+  time: 2013-02-25 10:39:25
+  attended: 
